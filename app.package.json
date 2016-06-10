@@ -1,0 +1,13 @@
+{
+    "name": "starter",
+    "version": "0.1.0",
+    "author": "Tyler Pham <tyler@disruptiveart.com>",
+    "description": "Electron Starter",
+    "main": "electron/main.js",
+    "license": "MIT",
+    "dependencies": {
+        "sqlite3": "^3.1.4",
+        "electron-squirrel-startup": "^1.0.0",
+        "jquery": "^2.2.4"
+    }
+}
