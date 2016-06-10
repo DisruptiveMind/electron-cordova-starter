@@ -4,6 +4,7 @@ This is a simple project to allow using electron to bootstrap a project that use
 # Gulp
 Gulp.js is used to prepare build files
 
+---
 
 Copyright (c) 2016 Tyler Pham <tyler@disruptiveart.com>
 
