@@ -13,6 +13,7 @@ npm run dist
 
 # Resources Used
 
+- [Electron](http://electron.atom.io/)
 - [Node.js(R)](https://nodejs.org/en/)
 - [VideoJS](http://videojs.com/)
 - [BootStrap](http://getbootstrap.com/)
