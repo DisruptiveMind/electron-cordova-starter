@@ -36,8 +36,5 @@
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "run-sequence": "^1.2.1"
-  },
-  "dependencies": {
-    "jquery": "^2.2.4"
   }
 }

@@ -1,8 +1,22 @@
 # Electron Starter
 This is a simple project to allow using electron to bootstrap a project that uses a standard cordova layout with /www.
 
-# Gulp
-Gulp.js is used to prepare build files
+# Getting Started
+You will need to ensure you have `npm` and then install packages before running electron (or packaging).
+
+## Install
+```
+npm install
+npm run electron
+npm run dist
+```
+
+# Resources Used
+
+- [Node.js(R)](https://nodejs.org/en/)
+- [VideoJS](http://videojs.com/)
+- [BootStrap](http://getbootstrap.com/)
+- [jQuery](https://jquery.com/download/)
 
 ---
 
